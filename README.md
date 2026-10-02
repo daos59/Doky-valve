@@ -144,6 +144,48 @@ This repository focuses primarily on the **mechanical development, manufacturing
 
 ---
 
+## Visual Development Gallery
+
+The following images document the evolution of DOKY across CAD development, additive manufacturing, mechanical integration, electronics integration, assembly and field validation. They are presented as engineering documentation of the iterative development process rather than as a strict chronological sequence.
+
+<p align="center">
+  <img src="assets/images/Doky1.jpeg" width="30%" alt="DOKY development image 1">
+  <img src="assets/images/Doky2.jpeg" width="30%" alt="DOKY development image 2">
+  <img src="assets/images/Doky3.jpeg" width="30%" alt="DOKY development image 3">
+</p>
+<p align="center">
+  <img src="assets/images/Doky4.jpeg" width="30%" alt="DOKY development image 4">
+  <img src="assets/images/Doky5.jpeg" width="30%" alt="DOKY development image 5">
+  <img src="assets/images/Doky6.jpeg" width="30%" alt="DOKY development image 6">
+</p>
+<p align="center">
+  <img src="assets/images/Doky7.jpeg" width="30%" alt="DOKY development image 7">
+  <img src="assets/images/Doky8.jpeg" width="30%" alt="DOKY development image 8">
+  <img src="assets/images/Doky11.png" width="30%" alt="DOKY CAD development image">
+</p>
+<p align="center">
+  <img src="assets/images/Doky12.png" width="30%" alt="DOKY CAD development image">
+  <img src="assets/images/Doky13.png" width="30%" alt="DOKY CAD development image">
+  <img src="assets/images/Doky14.png" width="30%" alt="DOKY CAD development image">
+</p>
+<p align="center">
+  <img src="assets/images/Doky15.png" width="30%" alt="DOKY CAD development image">
+  <img src="assets/images/Doky16.png" width="30%" alt="DOKY CAD development image">
+  <img src="assets/images/Doky17.png" width="30%" alt="DOKY CAD development image">
+</p>
+<p align="center">
+  <img src="assets/images/Doky18.png" width="30%" alt="DOKY CAD development image">
+  <img src="assets/images/Doky19.png" width="30%" alt="DOKY CAD development image">
+  <img src="assets/images/Doky20.png" width="30%" alt="DOKY CAD development image">
+</p>
+<p align="center">
+  <img src="assets/images/Doky21.png" width="45%" alt="DOKY development and field validation">
+</p>
+
+<p align="center"><em>CAD iterations, manufactured prototypes, assembly checks and field validation throughout DOKY development.</em></p>
+
+---
+
 ## Project Contributions
 
 My primary responsibility in DOKY has been the **mechanical development and manufacturing of the system**, including mechanical concept development, CAD design, enclosure development, design for additive manufacturing, material selection, prototype manufacturing, mechanical assembly, valve and actuator integration, field installation and testing, and iterative mechanical redesign.
