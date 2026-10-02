@@ -71,6 +71,13 @@ The previous drive system was replaced by a **DOCYKE 305 N·m actuator** incorpo
 
 A **custom metal coupling** was added between the actuator output and the valve to transmit the required torque.
 
+<p align="center">
+  <img src="assets/images/Doky22.jpeg" width="44%" alt="Custom metal coupling - actuator side">
+  <img src="assets/images/Doky23.jpeg" width="44%" alt="Custom metal coupling - valve interface">
+</p>
+
+<p align="center"><em>Custom machined coupling developed to transfer torque between the high-torque actuator and the existing valve.</em></p>
+
 During field testing, the new actuator was able to **open and close the valve easily**, resolving the primary mechanical limitation identified in V2.
 
 During installation, some enclosure joints required additional sealing, so epoxy putty was applied in the field as part of the prototype adaptation process.
@@ -101,7 +108,14 @@ The use of FDM manufacturing has allowed mechanical changes to move quickly from
 
 ## Current Mechanical Development
 
-Dense TPU prototypes are currently being evaluated to study the feasibility of a flexible coupling concept for a future mechanical iteration.
+Dense TPU prototypes are currently being evaluated to study the feasibility of a flexible coupling concept for a future mechanical iteration. These parts use a denser internal structure as proof-of-concept prototypes to evaluate whether TPU is suitable for the mechanical behavior required by the new concept.
+
+<p align="center">
+  <img src="assets/images/Doky24.jpeg" width="44%" alt="Dense TPU coupling prototype - insert interface">
+  <img src="assets/images/Doky25.jpeg" width="44%" alt="Dense TPU coupling prototype - internal geometry">
+</p>
+
+<p align="center"><em>Experimental TPU coupling prototypes used for material and geometry evaluation.</em></p>
 
 The final geometry and application of this concept remain under development and are intentionally not documented in detail at this stage.
 
